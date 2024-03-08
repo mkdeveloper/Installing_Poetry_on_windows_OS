@@ -1,6 +1,6 @@
 # Installing Poetry on Windows OS
 
-1.  Download Python from the official site
+1. [Download Python from officail Site](https://www.python.org/downloads/)
 2. Install Python.
 
     On the first screen, make sure you select `Add Python.exe to Path`
